@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","name":"signal detections","features":[{"type":"Feature","properties":{"REMARKS":"ignore"},"geometry":{"type":"Point","coordinates":[144.8721797106144,13.531037947510455,197.79563619634686]}},{"type":"Feature","properties":{"REMARKS":""},"geometry":{"type":"Point","coordinates":[144.87109454388266,13.532182634932239,201.52599479794975]}}]}
